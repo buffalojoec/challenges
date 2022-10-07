@@ -12,8 +12,8 @@ Good luck **${session?.user?.name}**!
 - If you have to, rewatch the video again!
 **some challenges may offer new NFTs while others may even update existing ones!*
 ### Resources:
-[Solana Developer Docs](https://docs.solana.com/developers)   
-[Solana Playground](https://beta.solpg.io/)
+[Solana Developer Docs: Accounts](https://docs.solana.com/developing/programming-model/accounts)   
+[Solana Cookbook: Accounts](https://solanacookbook.com/core-concepts/accounts.html#facts)
 [Solana Bytes YouTube Playlist](https://www.youtube.com/playlist?list=PLilwLeBwGuK51Ji870apdb88dnBr1Xqhm)
 ___
 ### How to Submit
