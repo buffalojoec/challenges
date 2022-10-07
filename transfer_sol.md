@@ -18,10 +18,10 @@ Good luck **${session?.user?.name}**!
 - You can use the Solana Explorer or Solscan to validate the transaction.
 - You can use the CLI to validate the change in balance of two accounts.
 ### Resources:
-[Solana Playground](https://beta.solpg.io/)
+[Solana Playground](https://beta.solpg.io/)   
 [Solana Developer Docs](https://docs.solana.com/developers)   
-[Program Examples](https://github.com/solana-developers/program-examples)
-[Solana Bytes: Transfer SOL](https://www.youtube.com/watch?v=hDiEv2a7VC0&list=PLilwLeBwGuK51Ji870apdb88dnBr1Xqhm&index=11)
+[Program Examples](https://github.com/solana-developers/program-examples)   
+[Solana Bytes: Transfer SOL](https://www.youtube.com/watch?v=hDiEv2a7VC0&list=PLilwLeBwGuK51Ji870apdb88dnBr1Xqhm&index=11)   
 ___
 ### How to Submit
 Your submission should include the following:
